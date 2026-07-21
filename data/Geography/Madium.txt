@@ -1,0 +1,699 @@
+Which African country has the largest total population?
+Egypt
+Ethiopia
+Nigeria
+Democratic Republic of the Congo
+C
+
+What is the highest mountain peak located entirely within the borders of Japan?
+Mount Kita
+Mount Fuji
+Mount Aso
+Mount Tate
+B
+
+Which country is completely landlocked by just one single other country?
+Swaziland
+Lesotho
+Andorra
+Moldova
+B
+
+What is the capital city of Pakistan?
+Karachi
+Lahore
+Islamabad
+Rawalpindi
+C
+
+Which body of water is the saltiest open ocean or landlocked sea on Earth?
+The Dead Sea
+The Red Sea
+The Baltic Sea
+The Mediterranean Sea
+A
+
+What is the capital city of New Zealand?
+Auckland
+Christchurch
+Wellington
+Hamilton
+C
+
+Which river flows through six European capitals before emptying into the Black Sea?
+Rhine River
+Danube River
+Volga River
+Elbe River
+B
+
+What is the capital of Ukraine?
+Lviv
+Odesa
+Kharkiv
+Kyiv
+D
+
+Which desert is famously known as the driest non-polar desert in the world?
+Sahara Desert
+Atacama Desert
+Kalahari Desert
+Namib Desert
+B
+
+What is the capital city of Nigeria?
+Lagos
+Abuja
+Kano
+Ibadan
+B
+
+Which strait connects the Mediterranean Sea to the Atlantic Ocean?
+Strait of Malacca
+Strait of Hormuz
+Strait of Gibraltar
+Bering Strait
+C
+
+What is the capital city of Morocco?
+Casablanca
+Marrakesh
+Rabat
+Fes
+C
+
+Which country contains the largest portion of the northern Scandinavian Peninsula?
+Sweden
+Finland
+Norway
+Denmark
+C
+
+What is the capital of Saudi Arabia?
+Jeddah
+Riyadh
+Mecca
+Dammam
+B
+
+Which mountain range forms the backbone of Italy's mainland peninsula?
+The Alps
+The Dolomites
+The Apennines
+The Pyrenees
+C
+
+What is the capital city of Vietnam?
+Ho Chi Minh City
+Hanoi
+Da Nang
+Haiphong
+C
+
+Which Central American country is the only one without a coastline on the Caribbean Sea?
+El Salvador
+Belize
+Nicaragua
+Honduras
+A
+
+What is the capital of Iran?
+Isfahan
+Shiraz
+Mashhad
+Tehran
+D
+
+Which lake is the largest freshwater lake in the world by total surface area?
+Lake Baikal
+Lake Superior
+Lake Victoria
+Lake Michigan
+B
+
+What is the capital city of Chile?
+Valparaiso
+Santiago
+Concepcion
+Antofagasta
+B
+
+Which country is the second-largest in the world by total land area?
+United States
+China
+Canada
+Brazil
+C
+
+What is the capital city of Bangladesh?
+Chittagong
+Dhaka
+Sylhet
+Khulna
+B
+
+Which state capital is the highest above sea level in the United States?
+Denver
+Santa Fe
+Cheyenne
+Salt Lake City
+B
+
+What is the capital of Turkey?
+Istanbul
+Ankara
+Izmir
+Bursa
+B
+
+Which island group is an archipelago shared between Malaysia, Brunei, and Indonesia?
+Sumatra
+Borneo
+Java
+Sulawesi
+B
+
+What is the capital city of Peru?
+Cusco
+Arequipa
+Lima
+Trujillo
+C
+
+Which African river is the deepest recorded river in the world?
+Nile River
+Congo River
+Niger River
+Zambezi River
+B
+
+What is the capital of Greece?
+Thessaloniki
+Patras
+Athens
+Heraklion
+C
+
+Which mountain range separates France from Italy and Switzerland?
+The Pyrenees
+The Alps
+The Carpathians
+The Urals
+B
+
+What is the capital city of Cuba?
+Santiago de Cuba
+Havana
+Camaguey
+Holguin
+B
+
+Which sea contains the unique organic entity known as the Great Barrier Reef?
+Coral Sea
+Tasman Sea
+Java Sea
+Timor Sea
+A
+
+What is the capital of Portugal?
+Porto
+Braga
+Lisbon
+Coimbra
+C
+
+Which Canadian province is the only one that borders the Pacific Ocean?
+Alberta
+British Columbia
+Saskatchewan
+Manitoba
+B
+
+What is the capital city of Finland?
+Tampere
+Turku
+Helsinki
+Espoo
+C
+
+Which body of water borders both Iran and several post-Soviet nations?
+Black Sea
+Red Sea
+Caspian Sea
+Aral Sea
+C
+
+What is the capital of Colombia?
+Medellin
+Cali
+Bogota
+Barranquilla
+C
+
+Which country is the largest landlocked nation in the entire world?
+Mongolia
+Kazakhstan
+Bolivia
+Chad
+B
+
+What is the capital city of Iraq?
+Basra
+Mosul
+Erbil
+Baghdad
+D
+
+Which island nation lies directly off the southern tip of the Malay Peninsula?
+Singapore
+Brunei
+Taiwan
+Sri Lanka
+A
+
+What is the capital of Venezuela?
+Maracaibo
+Valencia
+Caracas
+Barquisimeto
+C
+
+Which river forms the entire international boundary between Texas and Mexico?
+Colorado River
+Rio Grande
+Red River
+Columbia River
+B
+
+What is the capital city of Kenya?
+Mombasa
+Nairobi
+Kisumu
+Nakuru
+B
+
+Which body of water separates the island of Great Britain from mainland Europe?
+Irish Sea
+North Sea
+English Channel
+Baltic Sea
+C
+
+What is the capital of Ireland?
+Belfast
+Cork
+Dublin
+Galway
+C
+
+Which active volcano is the highest peak in Europe, located on the island of Sicily?
+Mount Vesuvius
+Mount Stromboli
+Mount Etna
+Mount Hekla
+C
+
+What is the capital city of Switzerland?
+Zurich
+Geneva
+Bern
+Basel
+C
+
+Which country is home to the ancient historical stone ruins of Petra?
+Egypt
+Syria
+Jordan
+Lebanon
+C
+
+What is the capital of Hungary?
+Debrecen
+Budapest
+Szeged
+Miskolc
+B
+
+Which mountain range runs north-to-south along the spine of the eastern United States?
+Rocky Mountains
+Sierra Nevada
+Appalachian Mountains
+Cascade Range
+C
+
+What is the capital city of Norway?
+Bergen
+Trondheim
+Oslo
+Stavanger
+C
+
+Which major river flows through northern India and Bangladesh into the Bay of Bengal?
+Indus River
+Ganges River
+Mekong River
+Brahmaputra River
+B
+
+What is the capital of Poland?
+Krakow
+Lodz
+Warsaw
+Wroclaw
+C
+
+Which sea is located between the mainland of Europe and the Scandinavian Peninsula?
+North Sea
+Baltic Sea
+Norwegian Sea
+Barents Sea
+B
+
+What is the capital city of Israel?
+Tel Aviv
+Haifa
+Jerusalem
+Beersheba
+C
+
+Which US state contains the largest number of active volcanoes?
+Hawaii
+California
+Washington
+Alaska
+D
+
+What is the capital of Denmark?
+Aarhus
+Odense
+Copenhagen
+Aalborg
+C
+
+Which country controls the strategic Galápagos Islands in the Pacific Ocean?
+Peru
+Colombia
+Ecuador
+Chile
+C
+
+What is the capital city of the Czech Republic?
+Brno
+Ostrava
+Prague
+Pilsen
+C
+
+Which major desert covers the vast majority of the interior of Botswana?
+Kalahari Desert
+Namib Desert
+Sahara Desert
+Karoo Desert
+A
+
+What is the capital of Romania?
+Cluj-Napoca
+Timisoara
+Bucharest
+Iasi
+C
+
+Which strait serves as the narrow corridor between the Persian Gulf and the Gulf of Oman?
+Strait of Malacca
+Strait of Hormuz
+Bab-el-Mandeb
+Bosporus Strait
+B
+
+What is the capital city of Sweden?
+Gothenburg
+Malmo
+Stockholm
+Uppsala
+C
+
+Which major South American river system forms the largest estuary network on Earth?
+Amazon River
+Orinoco River
+Rio de la Plata
+Magdalena River
+C
+
+What is the capital of Belgium?
+Antwerp
+Ghent
+Brussels
+Liege
+C
+
+Which mountain range forms the border between Spain and France?
+The Alps
+The Apennines
+The Pyrenees
+The Carpathians
+C
+
+What is the capital city of the Philippines?
+Cebu City
+Davao City
+Manila
+Quezon City
+C
+
+Which African lake is the largest tropical lake and the second-largest freshwater lake by area?
+Lake Tanganyika
+Lake Malawi
+Lake Victoria
+Lake Albert
+C
+
+What is the capital of Austria?
+Salzburg
+Vienna
+Graz
+Innsbruck
+B
+
+Which dynamic microstate is located completely within the borders of Rome, Italy?
+San Marino
+Monaco
+Vatican City
+Liechtenstein
+C
+
+What is the capital city of Argentina?
+Cordoba
+Rosario
+Buenos Aires
+Mendoza
+C
+
+Which major European river originates in Switzerland and flows through Germany and the Netherlands?
+Danube River
+Rhine River
+Rhone River
+Elbe River
+B
+
+What is the capital of Malaysia?
+Penang
+Johor Bahru
+Kuala Lumpur
+Kuching
+C
+
+Which country is the largest nation by land area on the continent of Africa?
+Sudan
+Algeria
+Libya
+Democratic Republic of the Congo
+B
+
+What is the capital city of South Korea?
+Busan
+Incheon
+Seoul
+Daegu
+C
+
+Which ocean contains the deepest trenches on Earth, including the Mariana Trench?
+Atlantic Ocean
+Indian Ocean
+Southern Ocean
+Pacific Ocean
+D
+
+What is the capital of the Netherlands?
+Rotterdam
+The Hague
+Amsterdam
+Utrecht
+C
+
+Which mountain range contains the highest peak in North America, Denali?
+The Rocky Mountains
+The Cascade Range
+The Alaska Range
+The Sierra Nevada
+C
+
+What is the capital city of Peru?
+Arequipa
+Cusco
+Lima
+Chiclayo
+C
+
+Which independent island state lies directly east of the African nation of Mozambique?
+Madagascar
+Mauritius
+Seychelles
+Comoros
+A
+
+What is the capital of Thailand?
+Phuket
+Chiang Mai
+Bangkok
+Pattaya
+C
+
+Which sea is completely surrounded by the Atlantic Ocean, bounded by ocean currents?
+Sargasso Sea
+Caribbean Sea
+North Sea
+Baltic Sea
+A
+
+What is the capital city of Finland?
+Tampere
+Turku
+Helsinki
+Oulu
+C
+
+Which body of water is bounded by the Indochina Peninsula, the Philippine Islands, and China?
+East China Sea
+South China Sea
+Yellow Sea
+Philippine Sea
+B
+
+What is the capital of Iceland?
+Akureyri
+Reykjavik
+Hafnarfjordur
+Kopavogur
+B
+
+Which US state is the only one that borders exactly one other US state?
+Maine
+Florida
+Washington
+Rhode Island
+A
+
+What is the capital city of Egypt?
+Alexandria
+Giza
+Cairo
+Luxor
+C
+
+Which country is the smallest independent state on the South American continent?
+Uruguay
+Guyana
+Suriname
+Ecuador
+C
+
+What is the capital of Singapore?
+Jurong
+Changi
+Singapore
+Orchard
+C
+
+Which major river flows south through the center of the Indochina Peninsula into Vietnam?
+Mekong River
+Yangtze River
+Salween River
+Irrawaddy River
+A
+
+What is the capital city of New Zealand?
+Auckland
+Wellington
+Christchurch
+Dunedin
+B
+
+Which country is the most mountainous in Europe, with over 70% of its area covered by the Alps?
+Austria
+Switzerland
+Italy
+Slovenia
+B
+
+What is the capital of Brazil?
+Rio de Janeiro
+Sao Paulo
+Brasilia
+Salvador
+C
+
+Which sea separates the mainland of Great Britain from the island of Ireland?
+Celtic Sea
+North Sea
+Irish Sea
+English Channel
+C
+
+What is the capital city of Taiwan?
+Kaohsiung
+Taichung
+Tainan
+Taipei
+D
+
+Which island is the largest island in the Mediterranean Sea?
+Sardinia
+Cyprus
+Sicily
+Crete
+C
+
+What is the capital of Portugal?
+Porto
+Lisbon
+Braga
+Coimbra
+B
+
+Which country has the longest coastline of any nation in the world?
+Russia
+Canada
+Australia
+United States
+B
+
+What is the capital city of the United Arab Emirates?
+Dubai
+Abu Dhabi
+Sharjah
+Ajman
+B
+
+Which mountain range separates the Iberian Peninsula from the rest of continental Europe?
+The Alps
+The Pyrenees
+The Apennines
+The Carpathians
+B
+
+What is the capital of Vietnam?
+Hanoi
+Ho Chi Minh City
+Da Nang
+Haiphong
+A

@@ -1,0 +1,699 @@
+What particle is composed of three quarks held together by gluons?
+Lepton
+Baryon
+Meson
+Photon
+B
+
+Which element has the highest melting point of all metallic elements?
+Tungsten
+Platinum
+Osmium
+Iridium
+A
+
+What biochemical cycle features nitrogen fixation, nitrification, and ammonification?
+Carbon cycle
+Phosphorus cycle
+Nitrogen cycle
+Sulfur cycle
+C
+
+What astronomical boundary marks the limit where gravity prevents light escaping a black hole?
+Singularity
+Accretion disk
+Event horizon
+Ergosphere
+C
+
+What principal quantum number determines the size and energy of an electron orbital?
+Azimuthal quantum number
+Magnetic quantum number
+Spin quantum number
+Principal quantum number
+D
+
+What specific type of RNA carries amino acids to the ribosome during translation?
+mRNA
+tRNA
+rRNA
+snRNA
+B
+
+Which enzyme is responsible for unwinding the DNA double helix during replication?
+DNA Polymerase
+Helicase
+Ligase
+RNA Primase
+B
+
+What structural law describes the relationship between a fluid's speed and its pressure?
+Bernoulli's Principle
+Pascal's Law
+Archimedes' Principle
+Stokes' Law
+A
+
+What geological layer lies directly below the Earth's lithosphere?
+Asthenosphere
+Outer Core
+Mesosphere
+Inner Crust
+A
+
+What fundamental thermodynamic principle states that total entropy of an isolated system always increases?
+First Law
+Second Law
+Third Law
+Zeroth Law
+B
+
+What class of subatomic particles includes electrons, muons, and neutrinos?
+Hadrons
+Baryons
+Leptons
+Mesons
+C
+
+What biochemical pathway converts glucose into pyruvate inside the cytoplasm?
+Krebs Cycle
+Glycolysis
+Electron Transport Chain
+Calvin Cycle
+B
+
+What chemical law states that equal volumes of gases contain equal numbers of molecules?
+Avogadro's Law
+Charles's Law
+Dalton's Law
+Graham's Law
+A
+
+What component of the cytoskeleton is made of actin filaments?
+Microtubules
+Intermediate filaments
+Microfilaments
+Centrioles
+C
+
+Which specific bone is the longest and strongest in the human body?
+Tibia
+Fibula
+Femur
+Humerus
+C
+
+What cosmological phenomenon causes distant galaxies to appear shifted toward longer wavelengths?
+Blue shift
+Gravitational lensing
+Red shift
+Cosmic inflation
+C
+
+What chemical reaction involves the gain of electrons by an atom or molecule?
+Oxidation
+Reduction
+Hydrolysis
+Polymerization
+B
+
+What standard equation calculates the electrical force between two static charges?
+Ohm's Law
+Coulomb's Law
+Ampere's Law
+Gauss's Law
+B
+
+Which neurological cells produce the protective myelin sheath in the central nervous system?
+Schwann cells
+Oligodendrocytes
+Astrocytes
+Microglia
+B
+
+What geological era is frequently called the Age of Reptiles or Dinosaurs?
+Paleozoic
+Mesozoic
+Cenozoic
+Proterozoic
+B
+
+What quantum property states that two identical fermions cannot occupy the same quantum state simultaneously?
+Heisenberg Uncertainty Principle
+Pauli Exclusion Principle
+Hund's Rule
+Aufbau Principle
+B
+
+What specific base replaces thymine in molecules of RNA?
+Adenine
+Guanine
+Cytosine
+Uracil
+D
+
+What structural index describes how much a medium slows down traveling light waves?
+Refractive index
+Absorption coefficient
+Dielectric constant
+Impedance
+A
+
+Which hormone reduces blood glucose levels by promoting cellular absorption?
+Glucagon
+Insulin
+Cortisol
+Thyroxine
+B
+
+What geological boundaries occur where tectonic plates slide horizontally past one another?
+Divergent boundaries
+Convergent boundaries
+Transform boundaries
+Subduction zones
+C
+
+What physical state of an ideal gas occurs when its molecular kinetic energy stops?
+Absolute zero
+Triple point
+Critical point
+Boiling point
+A
+
+What element has the highest electronegativity value on the Pauling scale?
+Oxygen
+Chlorine
+Fluorine
+Neon
+C
+
+What type of star represents the final evolutionary stage of a low-to-medium mass star?
+Red giant
+White dwarf
+Neutron star
+Supernova
+B
+
+Which immune cells mature in the thymus and manage cell-mediated immunity?
+B cells
+T cells
+Natural killer cells
+Macrophages
+B
+
+What physical law states that current is directly proportional to voltage and inversely to resistance?
+Kirchhoff's Law
+Faraday's Law
+Ohm's Law
+Lenz's Law
+C
+
+What specialized plant tissue brings water and dissolved minerals up from roots?
+Phloem
+Xylem
+Cambium
+Pith
+B
+
+What specific type of bond links amino acids into long polypeptide chains?
+Hydrogen bond
+Ionic bond
+Peptide bond
+Ester bond
+C
+
+What mechanical quantity is calculated by multiplying an object's mass by its velocity?
+Force
+Kinetic energy
+Momentum
+Work
+C
+
+What specialized cellular organelle contains digestive enzymes to break down cellular waste?
+Peroxisome
+Lysosome
+Ribosome
+Centrosome
+B
+
+What physical process produces energy inside the core of main sequence stars?
+Nuclear fission
+Nuclear fusion
+Radioactive decay
+Chemical combustion
+B
+
+Which historical experiment proved that atoms contain a dense, positively charged nucleus?
+Millikan oil drop experiment
+Rutherford gold foil experiment
+Thomson cathode ray experiment
+Chadwick neutron experiment
+B
+
+What principal chemical compound acts as the universal energy currency for living cells?
+DNA
+RNA
+ATP
+NADH
+C
+
+What thermodynamic phase condition allows solid, liquid, and gas to coexist in equilibrium?
+Critical point
+Boiling point
+Triple point
+Sublimation point
+C
+
+Which anatomical structure acts as the primary blood filter inside human kidneys?
+Loop of Henle
+Glomerulus
+Collecting duct
+Ureter
+B
+
+What fundamental field equations describe how matter and energy warp the fabric of spacetime?
+Maxwell's Equations
+Schrodinger's Equation
+Einstein's Field Equations
+Navier-Stokes Equations
+C
+
+What type of chemical reaction absorbs heat energy from its surrounding environment?
+Exothermic
+Endothermic
+Combustion
+Precipitation
+B
+
+Which biological organelle modifies, sorts, and packages proteins for secretion?
+Endoplasmic reticulum
+Golgi apparatus
+Mitochondria
+Nucleolus
+B
+
+What primary component makes up the structure of fungal cell walls?
+Cellulose
+Chitin
+Peptidoglycan
+Lignin
+B
+
+What constant represents the fundamental ratio of a photon's energy to its frequency?
+Planck's constant
+Boltzmann's constant
+Avogadro's number
+Gas constant
+A
+
+What process converts light energy into chemical energy inside dark reactions of plants?
+Krebs Cycle
+Calvin Cycle
+Glycolysis
+Fermentation
+B
+
+Which primary blood vessels return deoxygenated blood back into the heart's right atrium?
+Pulmonary veins
+Venae cavae
+Aorta
+Coronary arteries
+B
+
+What fundamental force is responsible for the process of radioactive beta decay?
+Gravitational force
+Electromagnetic force
+Strong nuclear force
+Weak nuclear force
+D
+
+What structural classification describes molecules that share identical chemical formulas but possess different structural connections?
+Isotopes
+Isomers
+Allotropes
+Polymorphs
+B
+
+Which chemical element possesses the highest atomic number found naturally on Earth?
+Thorium
+Radium
+Uranium
+Plutonium
+C
+
+What physical law notes that induced electromotive force always opposes the magnetic change creating it?
+Faraday's Law
+Lenz's Law
+Ampere's Law
+Gauss's Law
+B
+
+What specific structural protein forms the tough outer matrix of human hair, nails, and skin?
+Collagen
+Elastin
+Keratin
+Fibroin
+C
+
+What specialized area of a chromosome holds sister chromatids bound together during division?
+Telomere
+Centromere
+Kinetochore
+Centrosome
+B
+
+What physical term describes a fluid's inherent resistance to flow or internal friction?
+Density
+Viscosity
+Surface tension
+Buoyancy
+B
+
+Which planetary body in our solar system contains an ocean of liquid water beneath an icy crust?
+Titan
+Ganymede
+Europa
+Io
+C
+
+What specific type of point mutation shifts the translation reading frame of a gene?
+Silent mutation
+Missense mutation
+Nonsense mutation
+Frameshift mutation
+D
+
+What constant value defines the exact number of particles found in one mole of a substance?
+Planck's constant
+Avogadro's number
+Faraday's constant
+Rydberg constant
+B
+
+What structural category of rock forms when sedimentary or igneous rocks change due to high heat and pressure?
+Intrusive rock
+Extrusive rock
+Metamorphic rock
+Clastic rock
+C
+
+What mathematical constant describes the rate at which the universe is expanding?
+Hubble constant
+Cosmological constant
+Speed of light
+Gravitational constant
+A
+
+Which principal digestive enzyme breaks down proteins inside the acidic environment of the stomach?
+Amylase
+Lipase
+Pepsin
+Trypsin
+C
+
+What chemical bond forms via electrostatic attraction between oppositely charged ions?
+Covalent bond
+Metallic bond
+Ionic bond
+Coordinate bond
+C
+
+What standard unit measures the radioecological activity of a radioactive source sample?
+Sievert
+Gray
+Becquerel
+Tesla
+C
+
+What biological process creates haploid gametes out of diploid germ cells?
+Mitosis
+Meiosis
+Binary fission
+Budding
+B
+
+What variable represents the maximum velocity an object reaches when falling through a fluid?
+Escape velocity
+Orbital velocity
+Terminal velocity
+Angular velocity
+C
+
+Which structural lipid serves as a major component of cell membranes, forming a bilayer?
+Triglyceride
+Phospholipid
+Cholesterol
+Glycolipid
+B
+
+What specialized zone of the ocean floor occurs where one tectonic plate forces another down into the mantle?
+Mid-ocean ridge
+Rift valley
+Subduction zone
+Abyssal plain
+C
+
+What theoretical concept explains that particles exhibit properties of both waves and classic matter?
+Uncertainty principle
+Wave-particle duality
+Quantum entanglement
+Superposition
+B
+
+What trace gas makes up less than 1% of our atmosphere but acts as a highly potent greenhouse gas?
+Methane
+Argon
+Nitrogen
+Oxygen
+A
+
+What structure contains the dense region inside a cell nucleus where ribosomes are constructed?
+Cytoplasm
+Nucleolus
+Nuclear envelope
+Chromatin
+B
+
+What thermodynamic term describes a process that occurs without any heat transfer to or from the system?
+Isothermal
+Isobaric
+Isochoric
+Adiabatic
+D
+
+Which chemical indicator turns bright pink or magenta when added to a basic solution?
+Methyl orange
+Bromothymol blue
+Phenolphthalein
+Litmus
+C
+
+What property describes elements that exist in two or more distinct physical forms within the same phase?
+Isomers
+Isotopes
+Allotropes
+Allomorphs
+C
+
+What neurological space transmits signals between two adjacent neurons using neurotransmitters?
+Axon
+Dendrite
+Synapse
+Myelin
+C
+
+What standard physical constant determines the strength of gravitational attraction between objects?
+Universal Gas Constant
+Boltzmann Constant
+Gravitational Constant
+Hubble Constant
+C
+
+What specific cellular structure synthesizes lipids and metabolizes toxins?
+Rough Endoplasmic Reticulum
+Smooth Endoplasmic Reticulum
+Golgi Apparatus
+Lysosome
+B
+
+What type of lava flow has a smooth, billowy, or ropy surface texture?
+Aa
+Pahoehoe
+Pillow lava
+Blocky lava
+B
+
+What specific quantum number describes the spatial orientation of an electron orbital?
+Principal quantum number
+Azimuthal quantum number
+Magnetic quantum number
+Spin quantum number
+C
+
+Which key metabolic cycle produces carbon dioxide and electron carriers inside the mitochondrial matrix?
+Glycolysis
+Calvin Cycle
+Krebs Cycle
+Electron Transport Chain
+C
+
+What physical law states that the total current entering a junction must equal the total current leaving it?
+Kirchhoff's Current Law
+Kirchhoff's Voltage Law
+Ohm's Law
+Lenz's Law
+A
+
+What standard organic molecules act as the basic monomer units to construct nucleic acids?
+Amino acids
+Fatty acids
+Nucleotides
+Monosaccharides
+C
+
+What optical phenomenon splits white light into its component colors when passing through a prism?
+Reflection
+Refraction
+Dispersion
+Diffraction
+C
+
+Which specific hormone increases blood calcium levels by stimulating bone breakdown?
+Calcitonin
+Parathyroid hormone
+Thyroxine
+Aldosterone
+B
+
+What astronomical classification represents extremely luminous stellar objects powered by supermassive black holes?
+Pulsars
+Quasars
+White dwarfs
+Magnetars
+B
+
+What primary chemical bond forms between the complementary base pairs of a DNA double helix?
+Covalent bond
+Ionic bond
+Hydrogen bond
+Phosphodiester bond
+C
+
+What unit represents the exact frequency of one cycle per second?
+Joule
+Pascal
+Hertz
+Watt
+C
+
+What cell structural system facilitates cellular movement and anchors organelles?
+Cytoskeleton
+Extracellular matrix
+Cytoplasm
+Endomembrane system
+A
+
+What physical mechanism allows water to travel upwards through tight spaces against the force of gravity?
+Osmosis
+Capillary action
+Diffusion
+Viscosity
+B
+
+Which compound constitutes the primary structural component of plant wood?
+Starch
+Glycogen
+Cellulose
+Chitin
+C
+
+What device uses a semi-conducting material to amplify or switch electrical signals?
+Resistor
+Capacitor
+Inductor
+Transistor
+D
+
+What specialized phase of cell division features chromosomes aligning along the center equator of the cell?
+Prophase
+Metaphase
+Anaphase
+Telophase
+B
+
+What type of chemical reaction forms a solid out of the mixture of two aqueous solutions?
+Neutralization
+Combustion
+Precipitation
+Decomposition
+C
+
+Which fundamental physical variable determines the resistance of a wire along with its length and cross-sectional area?
+Conductivity
+Resistivity
+Permittivity
+Permeability
+B
+
+What specific physical region of Earth produces its protective magnetosphere through dynamo actions?
+Crust
+Asthenosphere
+Outer Core
+Inner Core
+C
+
+What process describes a gas changing directly into a solid state without becoming a liquid?
+Sublimation
+Condensation
+Deposition
+Evaporation
+C
+
+Which organelle captures solar energy to manufacture sugars within autotrophic organisms?
+Mitochondria
+Chloroplast
+Amyloplast
+Chromoplast
+B
+
+What specific theorem states that it is impossible to simultaneously know both the exact position and momentum of a subatomic particle?
+Schrodinger equation
+Heisenberg Uncertainty Principle
+De Broglie hypothesis
+Planck's law
+B
+
+What compound serves as the primary component of natural gas?
+Ethane
+Propane
+Butane
+Methane
+D
+
+What specific anatomical structure regulates the flow of material from the stomach into the small intestine?
+Cardiac sphincter
+Pyloric sphincter
+Ileocecal valve
+Esophageal sphincter
+B
+
+What physical process describes a system releasing heat energy into its local environment?
+Endothermic
+Exothermic
+Adiabatic
+Isothermal
+B
+
+Which element has the lowest atomic weight among all transition metals?
+Scandium
+Titanium
+Vanadium
+Chromium
+A
+
+What major physical mechanism transfers heat across space from the Sun to the Earth?
+Conduction
+Convection
+Radiation
+Advection
+C
